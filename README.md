@@ -9,9 +9,8 @@ ResNet-18 model of PyTorch Library was used and 15k+ images from [Kaggle](https:
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes.
 
-### Prerequisites
+### Requirements
 
-Requirements for the software and other tools to build, test and push 
 - Jupyter
 - Python
 - Python Libraries
