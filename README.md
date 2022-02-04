@@ -22,3 +22,14 @@ Requirements for the software and other tools to build, test and push
   - Numpy
   - OS
   - Random
+
+## Working 
+
+Classification using Pre Trained ResNet-18 model
+![Before Training](Screenshots/BeforeTraining.PNG)
+
+Classification after Trained ResNet-18 model
+![After Training](Screenshots/AfterTraining.PNG)
+
+After Training the model, it is exported as a .pth file which is now portable and ready to classify Chest X-Ray images.
+ ![ClassificationWithExportedModel](Screenshots/ClassificationWithExportedModel.PNG)
