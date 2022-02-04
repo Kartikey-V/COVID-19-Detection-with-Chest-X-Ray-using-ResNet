@@ -28,7 +28,7 @@ Requirements for the software and other tools to build, test and push
 Classification using Pre Trained ResNet-18 model
 ![Before Training](Screenshots/BeforeTraining.png)
 
-Classification after Trained ResNet-18 model
+Classification after Training ResNet-18 model
 ![After Training](Screenshots/AfterTraining.png)
 
 After Training the model, it is exported as a .pth file which is now portable and ready to classify Chest X-Ray images.
